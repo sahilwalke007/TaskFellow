@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "prefabPath": "/Users/sahilwalke/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar",
+  "packages": [
+    "/Users/sahilwalke/.gradle/caches/8.13/transforms/bb95dd3f95b706eb5968c7bca5dffada/transformed/react-android-0.79.0-debug/prefab",
+    "/Users/sahilwalke/Desktop/TaskFellow/node_modules/react-native-reanimated/android/build/intermediates/prefab_package/debug/prefab",
+    "/Users/sahilwalke/.gradle/caches/8.13/transforms/bade7f51f9852dd98b778794d78fbbaf/transformed/hermes-android-0.79.0-debug/prefab",
+    "/Users/sahilwalke/.gradle/caches/8.13/transforms/72cde7dc85b5006383f56c98fcfedfa5/transformed/fbjni-0.7.0/prefab"
+  ]
+}
